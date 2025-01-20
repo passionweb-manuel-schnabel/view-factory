@@ -2,8 +2,8 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'View Factory Codebreak',
-    'description' => '',
-    'category' => 'be',
+    'description' => 'Shows the usage of the ViewFactory which was introduced in TYPO3 v13',
+    'category' => 'example',
     'author' => 'Manuel Schnabel',
     'author_email' => 'service@passionweb.de',
     'author_company' => 'PassionWeb Manuel Schnabel',
