@@ -1,0 +1,7 @@
+plugin.tx_viewfactory {
+    view {
+        templateRootPaths.3 = EXT:viewfactory/Resources/Private/Templates/
+        layoutRootPaths.3 = EXT:viewfactory/Resources/Private/Layouts/
+        partialRootPaths.3 = EXT:viewfactory/Resources/Private/Partials/
+    }
+}
